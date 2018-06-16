@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/4/1/9/317390-baseball-wallpaper-1920x1080-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+	width: 80%;
+	height: 40px;
+	margin: 0 10%;
+	float: left;
+}
+
+button.answerchoice {
+	display: none;
+}
+
+button:hover {
+	background-color: blue;
+	color: white;
+}
+
+.answers div {
+	margin: 0 auto;
+}
+
+img {
+	height: 275px;
+    width: auto;
+    
+}
+
+h1, h2, h3, .question {
+	text-align: center;
+}
